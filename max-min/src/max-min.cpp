@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : max-min.cpp
-// Author      : Priyadarshan
+// Author      : pstod
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
