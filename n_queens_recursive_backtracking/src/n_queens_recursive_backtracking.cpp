@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : n_queens_recursive_backtracking.cpp
-// Author      : Priyadarshan
+// Author      : 
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
