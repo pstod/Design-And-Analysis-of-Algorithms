@@ -2,4 +2,4 @@
 Strategy wise problem distribution
 
 
-Recursive Approach Using Backtracking
+1) Recursive Approach Using Backtracking for N-queens problem
