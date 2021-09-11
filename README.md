@@ -3,3 +3,4 @@ Strategy wise problem distribution
 
 
 1) Recursive Approach Using Backtracking for N-queens problem
+2) Max-Min problem
